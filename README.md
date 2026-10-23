@@ -13,10 +13,18 @@ Computer science student at KIT. I build AI tools and interactive software, and 
 
 | Project | What to explore | Status |
 | --- | --- | --- |
-| [TrackGuard](https://github.com/LivingPixel-pixel/trackguard-localization) | Camera-based vehicle localization, a recorded replay and error/availability evidence. Began as a hackathon team project. | Research prototype; reported accuracy is from same-session development laps. |
-| [CraftGPT](https://github.com/LivingPixel-pixel/CraftGPT) | Describe a Minecraft build, inspect and revise the draft, then confirm placement. | v1.0.0 experimental prerelease. |
+| [TrackGuard](https://github.com/LivingPixel-pixel/trackguard-localization) | Led team and cross-tool agents through a mailbox workflow. Camera-localization replay and error/availability evidence. | Research prototype; results from same-session development laps. |
+| [CraftGPT](https://github.com/LivingPixel-pixel/CraftGPT) | Authored the mod and iterative generation pipeline with AI assistance. Describe, preview, revise and confirm placement. | [v1.0.0 experimental prerelease](https://github.com/LivingPixel-pixel/CraftGPT/releases/tag/v1.0.0). |
 | [Climate Canopy](https://github.com/LivingPixel-pixel/climate-canopy) | A local-first climate journal with documented estimates, practical experiments and a symbolic garden. | Educational beta; estimates are not a certified inventory. |
 | [AI-assisted mathematical research](https://github.com/LivingPixel-pixel/newman-polynomial-degree-obstructions) | A Newman-polynomial manuscript, exact certificates and reproducible verification tools. | AI research workflow with documented authorship and novelty limits. |
+
+## Open-source contributions
+
+I contribute to [WattSeal](https://github.com/Daminoup88/WattSeal), a desktop energy monitor. Five merged upstream changes:
+
+- [German language support](https://github.com/Daminoup88/WattSeal/pull/137).
+- [Configurable process count](https://github.com/Daminoup88/WattSeal/pull/135) and [remembered close preferences](https://github.com/Daminoup88/WattSeal/pull/146).
+- [Hardware-model tooltips](https://github.com/Daminoup88/WattSeal/pull/134) and [responsive chart headers](https://github.com/Daminoup88/WattSeal/pull/145).
 
 ## How I work
 
