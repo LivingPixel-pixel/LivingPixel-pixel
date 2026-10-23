@@ -7,8 +7,8 @@ Computer science student at KIT. I build AI tools and interactive software, and 
 ## Selected work
 
 <p>
-  <a href="https://github.com/LivingPixel-pixel/trackguard-localization"><img src="assets/trackguard-replay.gif" width="49%" align="top" alt="TrackGuard recorded development replay with position and yaw error charts."></a>
-  <a href="https://github.com/LivingPixel-pixel/CraftGPT"><img src="assets/craftgpt-wolf.png" width="49%" align="top" alt="A white wolf generated with CraftGPT in a snowy Minecraft landscape."></a>
+  <a href="https://github.com/LivingPixel-pixel/trackguard-localization"><img src="assets/trackguard-replay.gif" height="120" align="top" alt="TrackGuard recorded development replay with position and yaw error charts."></a>
+  <a href="https://github.com/LivingPixel-pixel/CraftGPT"><img src="assets/craftgpt-wolf.png" height="120" align="top" alt="A white wolf generated with CraftGPT in a snowy Minecraft landscape."></a>
 </p>
 
 | Project | What to explore | Status |
